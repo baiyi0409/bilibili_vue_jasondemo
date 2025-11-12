@@ -2,6 +2,7 @@
 **教学视频地址：https://www.bilibili.com/video/BV1LS421d7cY?spm_id_from=333.788.videopod.episodes&vd_source=8c2bb1dfa34312dfeaf0e5195815b238**
 
 全程手敲，忽略ts，处理视频讲解错误，添加个人注释，项目整理归档
+在查看的同时，不妨给点个star吧🫰
 
 #### 技术栈：
 <img width="913" height="567" alt="image" src="https://github.com/user-attachments/assets/7864d1a8-70df-4c02-80f6-701dad1aafd5" />
